@@ -6,5 +6,3 @@ dependencies:
   - xtensor=0.21.2
   - xtensor-blas=0.17.1
   - notebook
-  - ipython
-  - python
